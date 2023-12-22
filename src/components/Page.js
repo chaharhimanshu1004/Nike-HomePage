@@ -11,11 +11,11 @@ export default function () {
                 <p>YOUR FEET DESERVES THE BEST</p>
             </div>
             <div style={{width:"404px",height:"91px"}} className="mt-4">
-                <p style={{fontSize:"16px",lineHeight:"24px",fontFamily:"poppins"}}>YOUR FEET DESERVES THE BEST, AND WE'RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVES THE BEST, AND WE'RE HERE TO HELP YOU WITH OUR SHOES</p>
+                <p  className='font-thin' style={{fontSize:"16px",lineHeight:"24px",fontFamily:"poppins"}}>YOUR FEET DESERVES THE BEST, AND WE'RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVES THE BEST, AND WE'RE HERE TO HELP YOU WITH OUR SHOES</p>
             </div>
             <div className=' mt-5 flex justify-between font-bold ' style={{width:"331px",height:"41px"}}>
-                <button className='text-white r' style={{backgroundColor:"rgba(208,28,40,1)",width:"150px",height:"41px"}}>Shop Now</button>
-                <button className='border-2 border-slate-500' style={{backgroundColor:"white",width:"141px",height:"41px"}}>Category</button>
+                <button className='text-white rounded' style={{backgroundColor:"rgba(208,28,40,1)",width:"150px",height:"41px"}}>Shop Now</button>
+                <button className='border-2 border-slate-500 rounded' style={{backgroundColor:"white",width:"141px",height:"41px"}}>Category</button>
             </div>
             <div className='mt-6'>
                 <p>Also Available on</p>

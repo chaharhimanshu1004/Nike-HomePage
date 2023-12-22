@@ -14,7 +14,7 @@ export default function Navbar() {
             <p>ABOUT</p>
             <p>CONTACT</p>
         </div>
-        <div className='mr-12 flex justify-center font-bold text-white' style={{width:"75px",height:"31px",backgroundColor:"rgba(208,28,40,1)"}}>
+        <div className='mr-12 flex rounded justify-center font-bold text-white' style={{width:"75px",height:"31px",backgroundColor:"rgba(208,28,40,1)"}}>
             <button>Login</button>
         </div>
     </div>
